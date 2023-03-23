@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kvnet", "kvnet\kvnet.csproj", "{F8871350-9423-4328-A949-265DF394E62C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0FF40D22-9828-4694-8AD0-9F93CE355806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationBooks", "PresentationBooks\PresentationBooks.csproj", "{80269F08-4487-487B-99A2-680A47EF4D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8871350-9423-4328-A949-265DF394E62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8871350-9423-4328-A949-265DF394E62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8871350-9423-4328-A949-265DF394E62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8871350-9423-4328-A949-265DF394E62C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF40D22-9828-4694-8AD0-9F93CE355806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF40D22-9828-4694-8AD0-9F93CE355806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF40D22-9828-4694-8AD0-9F93CE355806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF40D22-9828-4694-8AD0-9F93CE355806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80269F08-4487-487B-99A2-680A47EF4D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80269F08-4487-487B-99A2-680A47EF4D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80269F08-4487-487B-99A2-680A47EF4D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80269F08-4487-487B-99A2-680A47EF4D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BE2D16-6DD0-4153-8DA2-D8EDDC0803B9}
+	EndGlobalSection
+EndGlobal

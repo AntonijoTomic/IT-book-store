@@ -1,0 +1,12 @@
+C:\Users\anton\source\repos\kvnet\test\bin\Debug\test.exe.config
+C:\Users\anton\source\repos\kvnet\test\bin\Debug\test.exe
+C:\Users\anton\source\repos\kvnet\test\bin\Debug\test.pdb
+C:\Users\anton\source\repos\kvnet\test\bin\Debug\kvnet.dll
+C:\Users\anton\source\repos\kvnet\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anton\source\repos\kvnet\test\bin\Debug\kvnet.pdb
+C:\Users\anton\source\repos\kvnet\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anton\source\repos\kvnet\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\kvnet\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\kvnet\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\anton\source\repos\kvnet\test\obj\Debug\test.exe
+C:\Users\anton\source\repos\kvnet\test\obj\Debug\test.pdb

@@ -1,0 +1,9 @@
+C:\Users\anton\source\repos\kvnet\kvnet\bin\Debug\kvnet.dll
+C:\Users\anton\source\repos\kvnet\kvnet\bin\Debug\kvnet.pdb
+C:\Users\anton\source\repos\kvnet\kvnet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anton\source\repos\kvnet\kvnet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anton\source\repos\kvnet\kvnet\obj\Debug\kvnet.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\kvnet\kvnet\obj\Debug\kvnet.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\kvnet\kvnet\obj\Debug\kvnet.csproj.CopyComplete
+C:\Users\anton\source\repos\kvnet\kvnet\obj\Debug\kvnet.dll
+C:\Users\anton\source\repos\kvnet\kvnet\obj\Debug\kvnet.pdb
